@@ -1,106 +1,119 @@
 [
   {
     "slide": 16,
-    "src": "audio/story-16-sohee-2x.mp3",
-    "seconds": 23.55,
+    "src": "audio/story-16-sohee-1x.mp3",
+    "seconds": 47.11,
     "paragraphs": 4,
     "voice": "Sohee",
-    "speed": 2.0
+    "speed": 1.0,
+    "default_playback_rate": 1.75
   },
   {
     "slide": 17,
-    "src": "audio/story-17-sohee-2x.mp3",
-    "seconds": 18.46,
+    "src": "audio/story-17-sohee-1x.mp3",
+    "seconds": 36.92,
     "paragraphs": 2,
     "voice": "Sohee",
-    "speed": 2.0
+    "speed": 1.0,
+    "default_playback_rate": 1.75
   },
   {
     "slide": 18,
-    "src": "audio/story-18-sohee-2x.mp3",
-    "seconds": 35.48,
+    "src": "audio/story-18-sohee-1x.mp3",
+    "seconds": 70.94,
     "paragraphs": 2,
     "voice": "Sohee",
-    "speed": 2.0
+    "speed": 1.0,
+    "default_playback_rate": 1.75
   },
   {
     "slide": 19,
-    "src": "audio/story-19-sohee-2x.mp3",
-    "seconds": 20.05,
+    "src": "audio/story-19-sohee-1x.mp3",
+    "seconds": 40.08,
     "paragraphs": 7,
     "voice": "Sohee",
-    "speed": 2.0
+    "speed": 1.0,
+    "default_playback_rate": 1.75
   },
   {
     "slide": 20,
-    "src": "audio/story-20-sohee-2x.mp3",
-    "seconds": 27.65,
+    "src": "audio/story-20-sohee-1x.mp3",
+    "seconds": 55.32,
     "paragraphs": 5,
     "voice": "Sohee",
-    "speed": 2.0
+    "speed": 1.0,
+    "default_playback_rate": 1.75
   },
   {
     "slide": 21,
-    "src": "audio/story-21-sohee-2x.mp3",
-    "seconds": 16.98,
+    "src": "audio/story-21-sohee-1x.mp3",
+    "seconds": 33.95,
     "paragraphs": 2,
     "voice": "Sohee",
-    "speed": 2.0
+    "speed": 1.0,
+    "default_playback_rate": 1.75
   },
   {
     "slide": 22,
-    "src": "audio/story-22-sohee-2x.mp3",
-    "seconds": 32.75,
+    "src": "audio/story-22-sohee-1x.mp3",
+    "seconds": 65.49,
     "paragraphs": 3,
     "voice": "Sohee",
-    "speed": 2.0
+    "speed": 1.0,
+    "default_playback_rate": 1.75
   },
   {
     "slide": 23,
-    "src": "audio/story-23-sohee-2x.mp3",
-    "seconds": 27.14,
+    "src": "audio/story-23-sohee-1x.mp3",
+    "seconds": 54.29,
     "paragraphs": 4,
     "voice": "Sohee",
-    "speed": 2.0
+    "speed": 1.0,
+    "default_playback_rate": 1.75
   },
   {
     "slide": 24,
-    "src": "audio/story-24-sohee-2x.mp3",
-    "seconds": 45.27,
+    "src": "audio/story-24-sohee-1x.mp3",
+    "seconds": 90.56,
     "paragraphs": 4,
     "voice": "Sohee",
-    "speed": 2.0
+    "speed": 1.0,
+    "default_playback_rate": 1.75
   },
   {
     "slide": 28,
-    "src": "audio/story-28-sohee-2x.mp3",
-    "seconds": 41.78,
+    "src": "audio/story-28-sohee-1x.mp3",
+    "seconds": 83.57,
     "paragraphs": 3,
     "voice": "Sohee",
-    "speed": 2.0
+    "speed": 1.0,
+    "default_playback_rate": 1.75
   },
   {
     "slide": 29,
-    "src": "audio/story-29-sohee-2x.mp3",
-    "seconds": 38.02,
+    "src": "audio/story-29-sohee-1x.mp3",
+    "seconds": 76.02,
     "paragraphs": 2,
     "voice": "Sohee",
-    "speed": 2.0
+    "speed": 1.0,
+    "default_playback_rate": 1.75
   },
   {
     "slide": 31,
-    "src": "audio/story-31-sohee-2x.mp3",
-    "seconds": 18.32,
+    "src": "audio/story-31-sohee-1x.mp3",
+    "seconds": 36.63,
     "paragraphs": 4,
     "voice": "Sohee",
-    "speed": 2.0
+    "speed": 1.0,
+    "default_playback_rate": 1.75
   },
   {
     "slide": 36,
-    "src": "audio/story-36-sohee-2x.mp3",
-    "seconds": 41.25,
+    "src": "audio/story-36-sohee-1x.mp3",
+    "seconds": 82.5,
     "paragraphs": 4,
     "voice": "Sohee",
-    "speed": 2.0
+    "speed": 1.0,
+    "default_playback_rate": 1.75
   }
 ]
